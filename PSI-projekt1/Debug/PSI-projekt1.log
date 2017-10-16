@@ -1,0 +1,4 @@
+﻿  neuron.cpp
+c:\users\madlenka\studia\informatyka\semestr 5\psi\psi-projekt1\psi-projekt1\neuron.cpp(125): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PSI-projekt1.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PSI\PSI-projekt1\Debug\PSI-projekt1.exe
+  PSI-projekt1.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PSI\PSI-projekt1\Debug\PSI-projekt1.pdb (Partial PDB)
